@@ -93,7 +93,7 @@ body {
   .linsk__link,
   .links__link:visited {
     text-decoration: none;
-    color: black;
+    color: whitesmoke;
   }
   
   .links__title {
@@ -126,7 +126,7 @@ body {
   font-size: 14px;
   line-height: 1.4;
 
-  color: black;
+  color: whitesmoke;
   text-decoration: black;
 }
   a:hover { color: red; }
